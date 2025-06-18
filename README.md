@@ -40,16 +40,7 @@
 [![Telegram](https://img.shields.io/badge/-@Zubarev1299-%232CA5E0?logo=telegram)](https://t.me/Zubarev1299)  
 [![VK](https://img.shields.io/badge/-VK-%230077FF?logo=vk)](https://vk.com/id472774404)  
 
-```java
-// О себе в коде:
-public class Me {
-    public static void main(String[] args) {
-        Developer dima = new Developer.Builder()
-            .withPassion("Java")
-            .withExperience("Spring Boot", "Hibernate")
-            .withGoal("Become Middle in 2 years")
-            .build();
-        
+
         while(dima.isBreathing()) {
             dima.code();
             dima.learn();
