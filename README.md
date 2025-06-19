@@ -1,4 +1,6 @@
-# Привет, я Дмитрий Зубарев! 👋 ### 📫 Контакты:
+# Привет, я Дмитрий Зубарев! 👋 
+
+ 📫 Контакты:
 [![Telegram](https://img.shields.io/badge/-@Zubarev1299-%232CA5E0?logo=telegram)](https://t.me/Zubarev1299)  
 [![VK](https://img.shields.io/badge/-VK-%230077FF?logo=vk)](https://vk.com/id472774404)  
 
